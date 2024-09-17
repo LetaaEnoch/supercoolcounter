@@ -3,4 +3,10 @@
     <item>
         <bitmap android:gravity="fill" android:src="@drawable/background"/>
     </item>
+<<<<<<< HEAD
+=======
+    <item>
+        <bitmap android:gravity="center" android:src="@drawable/splash"/>
+    </item>
+>>>>>>> ffa851359e24e6ca6da0dc3828fa6e8464a099ca
 </layer-list>
